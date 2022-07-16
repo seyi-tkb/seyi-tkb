@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning SQL and Python.
 - 👯 I’m looking to collaborate on projects involving data.
 - 💬 Ask me about data.
-- 📫 How to reach me: https://twitter.com/
+- 📫 How to reach me: [twitter - @seyiii__](https://twitter.com/seyiii__)
 
