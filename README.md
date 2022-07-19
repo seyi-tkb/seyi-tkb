@@ -1,6 +1,6 @@
 ### Hi there, I'm Seyi 👋
 
-- ❄ I work on data analytics, business intelligence and data visualization.
+- ❄ I work on data analytics.
 - 👨‍💼 I'm a Mechanical Engineering student of FUTA.
 - 🔭 I’m currently working on Power BI.
 - 🌱 I’m currently learning SQL and Python.
